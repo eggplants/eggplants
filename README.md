@@ -23,7 +23,7 @@
          src="https://2.bp.blogspot.com/-DI48KC7LlTE/UO1ioW2x7wI/AAAAAAAAKh0/wpJskRJ3WJw/s1600/small_flower_green.png" width="50"
     /><img
          src="https://cgi.u.tsukuba.ac.jp/~s1811528/opac/img/selfiebrink.gif" width="50"
-    />
+    />  
   ![あ](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt)
 </a></div>
 
@@ -39,7 +39,7 @@
 - Greasy Fork: [@eggplants](https://greasyfork.org/en/users/671442-eggplants)
 - Jstris [@egg_planter0](https://jstris.jezevec10.com/u/egg_planter0)
 - Keybase: [@egpl0](https://keybase.io/egpl0)
-- Paiza: [しっとり 袋ドーナツ 冷凍 サクサク](https://paiza.jp/challenges/glicko_rating_shar>
+- Paiza: [しっとり 袋ドーナツ 冷凍 サクサク](https://paiza.jp/challenges/glicko_rating_shar)
 - PyPI: [@eggplants](https://pypi.org/user/eggplants/)
 - Qiita: [@eggplants](https://qiita.com/eggplants)
 - Rubygems: [@eggplants](https://rubygems.org/profiles/eggplants)
