@@ -1,65 +1,40 @@
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <span>Japanese</span>
-      </td>
-      <td>
-        <a href="https://github.com/eggplants/eggplants/blob/master/README_en.md">English</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<!-- markdownlint-disable-file MD033 MD041 -->
 
-<div style="text-align: center;">
-  <a href="https://www.u.tsukuba.ac.jp/~s1811528/">
-    <img
-         src="https://cgi.u.tsukuba.ac.jp/~s1811528/opac/img/selfiebrink.gif" width="50"
-    /><img
-         src="https://2.bp.blogspot.com/-DI48KC7LlTE/UO1ioW2x7wI/AAAAAAAAKh0/wpJskRJ3WJw/s1600/small_flower_green.png" width="50"
-    /><img
-         src="https://cgi.u.tsukuba.ac.jp/~s1811528/opac/img/selfiebrink.gif" width="50"
-    /><img
-         src="https://2.bp.blogspot.com/-DI48KC7LlTE/UO1ioW2x7wI/AAAAAAAAKh0/wpJskRJ3WJw/s1600/small_flower_green.png" width="50"
-    /><img
-         src="https://cgi.u.tsukuba.ac.jp/~s1811528/opac/img/selfiebrink.gif" width="50"
-    />
-  ![あ](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt)
-</a></div>
+[![icon_a]](https://www.u.tsukuba.ac.jp/~s1811528/) [![flower]](https://で〜の.deno.dev) [![icon_a]](https://www.sakalab.org/~saka/clock1/chime-klis.html) [![flower]](https://github.com/issues?q=is%3Aissue+author%3Aeggplants+archived%3Afalse+-user%3Aeggplants+is%3Aopen) [![icon_a]](https://github.com/pulls?q=author%3Aeggplants+-user%3Aeggplants+is%3Apublic)
+
+---
+
+![stats](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt)
 
 ---
 
 <details>
-  <summary>各種のアレ</summary>
+  <summary>My Accounts</summary>
 
-- Atcoder: [@eggplants](https://atcoder.jp/users/eggplants)
-- Connpass: [@egpl0](https://connpass.com/user/egpl0)
-- Doorkeeper: [haruna](https://www.doorkeeper.jp/users/xtpf8edosjnkj9v41rcymf3bbwr8ol)
+- Docker Hub: [@eggplanter](https://hub.docker.com/u/eggplanter)
 - Gist: [@eggplants](https://gist.github.com/eggplants)
 - Greasy Fork: [@eggplants](https://greasyfork.org/en/users/671442-eggplants)
-- Jstris [@egg_planter0](https://jstris.jezevec10.com/u/egg_planter0)
 - Keybase: [@egpl0](https://keybase.io/egpl0)
-- Paiza: [しっとり 袋ドーナツ 冷凍 サクサク](https://paiza.jp/challenges/glicko_rating_shar>
+- npm: [@eggplants](https://www.npmjs.com/~eggplants)
 - PyPI: [@eggplants](https://pypi.org/user/eggplants/)
 - Qiita: [@eggplants](https://qiita.com/eggplants)
 - Rubygems: [@eggplants](https://rubygems.org/profiles/eggplants)
 - SoundCloud: [@egpl0](https://soundcloud.com/f-0q)
-- Steam: [@egpl0](https://steamcommunity.com/id/egpl0)
-- Togetter: [@egpl0](https://togetter.com/id/egpl0)
-- Twitch: [@egpl0](https://www.twitch.tv/egpl0)
 - Twitter: [@egpl0](https://twitter.com/egpl0)
-- Twitter(サブ): [@egpl0_sh_2](https://twitter.com/egpl0_sh_2)
-- Twitter(凍結): [@egpl0_sh](https://twitter.com/egpl0_sh)
+- UserStyles.world: [@eggplants](https://userstyles.world/user/eggplants)
 
 </details>
 
 ---
 
 <details>
-  <summary>おすすめの動画</summary>
+  <summary>Favorite Video</summary>
 
-- 【初配信！】むぎたまキャットファイトラジオ 第１回【にじさんじ】【ナン】
+- ホビ Vol.2 チョ～高い塔
 
-[![尊い](https://i.ytimg.com/vi/2CKQrXLwQ6s/hqdefault.jpg)](http://youtu.be/2CKQrXLwQ6s)
+<a href="http://youtu.be/miUQ8BtJ38w"><img src="https://user-images.githubusercontent.com/42153744/140617005-a7c8a311-b25b-4b48-95a6-b65f18f3325f.png" width="480" height="360" /></a>
 
 </details>
+
+[icon_a]: https://raw.githubusercontent.com/eggplants/eggplants/master/anim.gif
+[flower]: https://raw.githubusercontent.com/eggplants/eggplants/master/flower.png
