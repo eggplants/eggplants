@@ -1,6 +1,10 @@
 <!-- markdownlint-disable-file MD033 MD041 -->
 
-[![icon_a]](https://www.u.tsukuba.ac.jp/~s1811528/) [![flower]](https://で〜の.deno.dev) [![icon_a]](https://www.sakalab.org/~saka/clock1/chime-klis.html) [![flower]](https://github.com/issues?q=is%3Aissue+author%3Aeggplants+archived%3Afalse+-user%3Aeggplants+is%3Aopen) [![icon_a]](https://github.com/pulls?q=author%3Aeggplants+-user%3Aeggplants+is%3Apublic+is%3Apr)
+[![icon_a]](https://www.u.tsukuba.ac.jp/~s1811528/
+) [![flower]](https://で〜の.deno.dev
+) [![icon_a]](https://egpl.ga/ads
+) [![flower]](https://git.io/JM4rV
+) [![icon_a]](https://git.io/JM4ri)
 
 ---
 
