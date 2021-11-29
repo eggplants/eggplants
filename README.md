@@ -13,7 +13,7 @@
 ---
 
 <details>
-  <summary>My Accounts</summary>
+<summary>My Accounts</summary>
 
 - Docker Hub: [@eggplanter](https://hub.docker.com/u/eggplanter)
 - Gist: [@eggplants](https://gist.github.com/eggplants)
@@ -32,7 +32,7 @@
 ---
 
 <details>
-  <summary>Favorite Video</summary>
+<summary>Favorite Video</summary>
 
 - ホビ Vol.2 チョ～高い塔
 
