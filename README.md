@@ -4,11 +4,41 @@
 ) [![flower]](https://で〜の.deno.dev
 ) [![icon_a]](https://egpl.ga/ads
 ) [![flower]](https://git.io/JM4rV
-) [![icon_a]](https://git.io/JM4ri)
+) [![icon_a]](https://git.io/JM4ri
+)
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt)
+<details>
+<summary>？</summary>
+
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt) -->
+
+- Language
+  - Frequent
+    - Python
+    - Bash + Commands
+    - Ruby
+    - JavaScript
+    - TypeScript
+  - Hobby
+    - Lisp
+    - Perl
+- Term
+  - Scraping
+  - Automation
+- Tool
+  - Bot
+  - GitHub Actions
+  - Docker
+  - SQLite
+  - Heroku
+- Interest
+  - Deno
+  - LOD
+  - OSS
+
+</details>
 
 ---
 
