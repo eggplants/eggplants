@@ -1,10 +1,10 @@
 <!-- markdownlint-disable-file MD033 MD041 -->
 
-[![icon_a]](https://www.u.tsukuba.ac.jp/~s1811528/
+[![ani_ico]](https://www.u.tsukuba.ac.jp/~s1811528/
 ) [![flower]](https://で〜の.deno.dev
-) [![icon_a]](https://egpl.ga/ads
+) [![ani_ico]](https://egpl.ga/ads
 ) [![flower]](https://git.io/JM4rV
-) [![icon_a]](https://git.io/JM4ri
+) [![ani_ico]](https://git.io/JM4ri
 )
 
 ---
@@ -12,31 +12,9 @@
 <details>
 <summary>？</summary>
 
-<!-- ![stats](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt) -->
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt) -->  
 
-- Language
-  - Frequent
-    - Python
-    - Bash + Commands
-    - Ruby
-    - JavaScript
-    - TypeScript
-  - Hobby
-    - Lisp
-    - Perl
-- Term
-  - Scraping
-  - Automation
-- Tool
-  - Bot
-  - GitHub Actions
-  - Docker
-  - SQLite
-  - Heroku
-- Interest
-  - Deno
-  - LOD
-  - OSS
+[![ani_oct]](https://gist.github.com/eggplants/05e94e2d9da7f3ee5da93e8dd67d2834)
 
 </details>
 
@@ -68,7 +46,11 @@
 
 <a href="http://youtu.be/miUQ8BtJ38w"><img src="https://user-images.githubusercontent.com/42153744/140617005-a7c8a311-b25b-4b48-95a6-b65f18f3325f.png" width="480" height="360" /></a>
 
+[![ani_mon]](https://youtube.com/playlist?list=PLunFwpuj5vnzhrpO2ZkkTc1Wze_mNlGUm)
+
 </details>
 
-[icon_a]: https://raw.githubusercontent.com/eggplants/eggplants/master/anim.gif
+[ani_ico]: https://raw.githubusercontent.com/eggplants/eggplants/master/anim.gif
 [flower]: https://raw.githubusercontent.com/eggplants/eggplants/master/flower.png
+[ani_oct]: https://raw.githubusercontent.com/github/docs/main/assets/images/playground/loading.gif
+[ani_mon]: https://github.githubassets.com/images/mona-loading-dark.gif
