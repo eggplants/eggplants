@@ -16,11 +16,19 @@
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&theme=cobalt) -->
 
-![oshimai]![oshimai]![oshimai]![oshimai]![oshimai]
+![oshimai]![oshimai]![oshimai]
+
+![oshimai]![oshimai]
+
+![oshimai]
 
 [![ani_oct]](https://gist.github.com/eggplants/05e94e2d9da7f3ee5da93e8dd67d2834)
 
-![oshimai]![oshimai]![oshimai]![oshimai]![oshimai]
+![oshimai]
+
+![oshimai]![oshimai]
+
+![oshimai]![oshimai]![oshimai]
 
 </details>
 
