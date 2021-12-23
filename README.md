@@ -56,9 +56,9 @@ UserStyles.world: [@eggplants](https://userstyles.world/user/eggplants)
 <details>
 <summary>Favorite Video</summary>
 
-ホビ Vol.2 チョ～高い塔
+みみみ　mmmmmm LIVE@THE END OF ANALOGWAVE
 
-<a href="http://youtu.be/miUQ8BtJ38w"><img src="https://user-images.githubusercontent.com/42153744/140617005-a7c8a311-b25b-4b48-95a6-b65f18f3325f.png" width="480" height="360" /></a>
+[![thumb]](https://www.youtube.com/watch?v=iTy-1KawfX0&ab_channel=qooooon)
 
 [![ani_mon]](https://youtube.com/playlist?list=PLunFwpuj5vnzhrpO2ZkkTc1Wze_mNlGUm)
 
@@ -71,3 +71,4 @@ UserStyles.world: [@eggplants](https://userstyles.world/user/eggplants)
 [ani_oct]: https://raw.githubusercontent.com/github/docs/main/assets/images/playground/loading.gif
 [ani_mon]: https://github.githubassets.com/images/mona-loading-dark.gif
 [oshimai]: https://img.shields.io/badge/%E4%BA%BA%E7%94%9F-failing-red
+[thumb]: https://user-images.githubusercontent.com/42153744/147287360-b430e140-d1b2-4902-9aa5-324d3d864be8.png
