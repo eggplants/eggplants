@@ -2,6 +2,10 @@
 
 <div align=center>
 
+<details>
+
+<summary></summary>
+
 | ←Freq | [Pulls] | [Issues] | [PyPI] |[Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
 | :---- | :-----: | :------: | :----: | :---: | :-------: | :-----------: | ---: |
 
@@ -10,6 +14,8 @@
 | ![languages]       |
 | ![contributions]   |
 | ![stats]           |
+
+</details>
 
 </div>
 
