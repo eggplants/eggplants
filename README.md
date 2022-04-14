@@ -9,11 +9,11 @@
 | ←Freq | [Pulls] | [Issues] | [PyPI] |[Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
 | :---- | :-----: | :------: | :----: | :---: | :-------: | :-----------: | ---: |
 
-| GitHub Status Cards |
-| :----------------: |
-| ![languages]       |
-| ![contributions]   |
-| ![stats]           |
+| GitHub Stats     |
+| :--------------: |
+| ![languages]     |
+| ![contributions] |
+| ![stats]         |
 
 </details>
 
