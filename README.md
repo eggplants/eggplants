@@ -9,11 +9,17 @@
 | ←Freq | [Pulls] | [Issues] | [PyPI] |[Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
 | :---- | :-----: | :------: | :----: | :---: | :-------: | :-----------: | ---: |
 
+<details>
+
+<summary></summary>
+
 | GitHub Stats     |
 | :--------------: |
 | ![languages]     |
 | ![contributions] |
 | ![stats]         |
+
+</details>
 
 </details>
 
