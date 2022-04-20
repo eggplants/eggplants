@@ -6,8 +6,8 @@
 
 <summary></summary>
 
-| ←Freq | [Pulls] | [Issues] | [PyPI] |[Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
-| :---- | :-----: | :------: | :----: | :---: | :-------: | :-----------: | ---: |
+| ←Freq | [Pulls] | [Issues] | [PyPI] | [Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
+| :---- | :-----: | :------: | :----: | :----: | :-------: | :-----------: | ----: |
 
 <details>
 
