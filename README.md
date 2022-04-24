@@ -34,6 +34,8 @@
 [PyPI]: https://pypi.org/user/eggplants/
 [Gist]: https://gist.github.com/eggplants
 
+<!-- s -->
+
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=eggplants&layout=compact&hide=html,jupyter%20notebook,css
 [contributions]: https://github-contribution-stats.vercel.app/api/?username=eggplants
 [stats]: https://github-readme-stats.vercel.app/api?username=eggplants&count_private=true&show_icons=true&hide=stars
