@@ -2,16 +2,16 @@
 
 <div align=center>
 
-<details>
+<details><summary></summary><br />
 
-<summary></summary>
+[![PGP]](https://keybase.io/egpl0)
+
+<details><summary></summary><br />
 
 | ←Freq | [Pulls] | [Issues] | [PyPI] | [Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
 | :---- | :-----: | :------: | :----: | :----: | :-------: | :-----------: | ----: |
 
-<details>
-
-<summary></summary>
+<details><summary></summary><br />
 
 | GitHub Stats     |
 | :--------------: |
@@ -23,7 +23,13 @@
 
 </details>
 
+</details>
+
 </div>
+
+<!-- badges -->
+
+[PGP]: https://img.shields.io/keybase/pgp/egpl0
 
 <!-- links -->
 
