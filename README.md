@@ -4,7 +4,7 @@
 
 <details><summary></summary><br />
 
-[![PGP]](https://keybase.io/egpl0)
+[![life]]() [![PGP]](https://keybase.io/egpl0) [![code]]()
 
 <details><summary></summary><br />
 
@@ -29,7 +29,9 @@
 
 <!-- badges -->
 
+[life]: https://img.shields.io/badge/life-failing-red
 [PGP]: https://img.shields.io/keybase/pgp/egpl0
+[code]: https://img.shields.io/badge/code-caotic-red
 
 <!-- links -->
 
