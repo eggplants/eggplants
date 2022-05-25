@@ -8,8 +8,34 @@
 
 <details><summary></summary><br />
 
+<div width=290>
+
+<table align=center>
+
+<tr><td align=center>
+
+&nbsp;
+
+&nbsp;
+
 | ←Freq | [Pulls] | [Issues] | [PyPI] | [Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
 | :---- | :-----: | :------: | :----: | :----: | :-------: | :-----------: | ----: |
+
+&nbsp;
+
+| ←old | Ruby | Shell | CommonLisp | Python | JavaScript | C/C++ | TypeScript | new→ |
+| :--- | :--: | :---: | :--------: | :----: | :--------: | :---: | :--------: | ---: |
+
+&nbsp;
+
+| ←old | Windows | Ubuntu | Heroku | Docker | GitHub Actions | Mac | new→ |
+| :--- | :-----: | :----: | :----: | :----: | :------------: | :-: | ---: |
+
+&nbsp;
+
+</td></tr>
+
+</table>
 
 <details><summary></summary><br />
 
@@ -18,18 +44,6 @@
 | ![languages]     |
 | ![contributions] |
 | ![stats]         |
-
-<details><summary></summary><br />
-
-|←old|Ruby|Shell|CommonLisp|Python|JavaScript|C/C++|TypeScript|New→|
-|-|-|-|-|-|-|-|-|-|
-
-|←old|Windows|Ubuntu|Heroku|Docker|GitHub Actions|Mac|new→|
-|-|-|-|-|-|-|-|-|
-
-</b>
-
-</details>
 
 </details>
 
