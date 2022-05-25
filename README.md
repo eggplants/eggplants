@@ -12,9 +12,7 @@
 
 <table align=center>
 
-<th>Tools</th>
-
-<tr><td align=center>
+<th align=center>
 
 &nbsp;
 
@@ -35,7 +33,7 @@
 
 &nbsp;
 
-</td></tr>
+</th>
 
 </table>
 
