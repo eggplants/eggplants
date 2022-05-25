@@ -4,7 +4,7 @@
 
 <details><summary></summary><br />
 
-[![life]]() [![PGP]](https://keybase.io/egpl0) [![code]]()
+[![life]![PGP]![code]](https://egpl.ga/keybase.txt)
 
 <details><summary></summary><br />
 
@@ -18,6 +18,18 @@
 | ![languages]     |
 | ![contributions] |
 | ![stats]         |
+
+<details><summary></summary><br />
+
+|←old|Ruby|Shell|CommonLisp|Python|JavaScript|C/C++|TypeScript|New→|
+|-|-|-|-|-|-|-|-|-|
+
+|←old|Windows|Ubuntu|Heroku|Docker|GitHub Actions|Mac|new→|
+|-|-|-|-|-|-|-|-|
+
+</b>
+
+</details>
 
 </details>
 
