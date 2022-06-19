@@ -23,8 +23,8 @@
 
 &nbsp;
 
-| ←old | Ruby | Shell | CommonLisp | Python | JavaScript | C/C++ | TypeScript | new→ |
-| :--- | :--: | :---: | :--------: | :----: | :--------: | :---: | :--------: | ---: |
+| ←old | [Ruby] | [Shell] | [CommonLisp] | [Python] | [JavaScript] | [C]/[C++] | [TypeScript] | new→ |
+| :--- | :----: | :-----: | :----------: | :------: | :----------: | :-------: | :----------: | ---: |
 
 &nbsp;
 
@@ -67,6 +67,16 @@
 [Greasy Fork]: https://greasyfork.org/en/users/671442-eggplants
 [PyPI]: https://pypi.org/user/eggplants/
 [Gist]: https://gist.github.com/eggplants
+
+<!-- langs -->
+[Ruby]: https://github.com/eggplants?tab=repositories&q=&type=&language=ruby&sort=
+[Shell]: https://github.com/eggplants?tab=repositories&q=&type=&language=shell&sort=
+[CommonLisp]: https://github.com/eggplants?tab=repositories&q=&type=&language=lisp&sort=
+[Python]: https://github.com/eggplants?tab=repositories&q=&type=&language=python&sort=
+[JavaScript]: https://github.com/eggplants?tab=repositories&q=&type=&language=javascript&sort=
+[C]: https://github.com/eggplants?tab=repositories&q=&type=&language=c&sort=
+[C++]: https://github.com/eggplants?tab=repositories&q=&type=&language=cpp&sort=
+[TypeScript]: https://github.com/eggplants?tab=repositories&q=&type=&language=typescript&sort=
 
 <!-- stats -->
 
