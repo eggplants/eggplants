@@ -4,7 +4,7 @@
 
 <details><summary></summary><br />
 
-[![life]![PGP]![code]](https://egpl.ga/keybase.txt)
+[![life]![PGP]![code]](https://keybase.io/egpl0/pgp_keys.asc)
 
 <details><summary></summary><br />
 
