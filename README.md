@@ -2,7 +2,15 @@
 
 <div align=center>
 
-<details><summary></summary><br />
+<details>
+
+<summary>
+
+[![moe-counter]](#)
+
+</summary>
+
+<br>
 
 [![life]![PGP]![code]](https://keybase.io/egpl0/pgp_keys.asc)
 
@@ -50,8 +58,6 @@
 </details>
 
 </details>
-
-![moe-counter]
 
 </div>
 
