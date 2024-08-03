@@ -12,7 +12,7 @@
 
 <br>
 
-[![life]![PGP]![code]](https://keybase.io/egpl0/pgp_keys.asc)
+[![life]![PGP]![code]](https://keyoxide.org/81171C840F81C8843F1FA171E84F494AD6539CE2)
 
 <details><summary></summary><br />
 
@@ -64,7 +64,7 @@
 <!-- badges -->
 
 [life]: https://img.shields.io/badge/life-failing-red
-[PGP]: https://img.shields.io/keybase/pgp/egpl0
+[PGP]: https://img.shields.io/badge/pgp-8117%201C84%200F81%20C884%203F1F%20A171%20E84F%20494A%20D653%209CE2-blue
 [code]: https://img.shields.io/badge/code-caotic-red
 
 <!-- links -->
