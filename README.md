@@ -26,8 +26,8 @@
 
 &nbsp;
 
-| ←Freq | [Pulls] | [Issues] | [PyPI] | [Gist] | [KeyBase] | [Greasy Fork] | Rare→ |
-| :---- | :-----: | :------: | :----: | :----: | :-------: | :-----------: | ----: |
+| ←Freq | [Pulls] | [Issues] | [PyPI] | [Gist] | [Greasy Fork] | Rare→ |
+| :---- | :-----: | :------: | :----: | :----: | :-----------: | ----: |
 
 &nbsp;
 
@@ -71,7 +71,6 @@
 
 [Pulls]: https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Aeggplants+archived%3Afalse
 [Issues]: https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aeggplants+archived%3Afalse
-[KeyBase]: https://keybase.io/egpl0
 [Greasy Fork]: https://greasyfork.org/en/users/671442-eggplants
 [PyPI]: https://pypi.org/user/eggplants/
 [Gist]: https://gist.github.com/eggplants
