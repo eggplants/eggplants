@@ -12,7 +12,7 @@
 
 <br>
 
-[![life]![PGP]![code]](https://keyoxide.org/81171C840F81C8843F1FA171E84F494AD6539CE)
+[![life]![PGP]![code]](https://keyoxide.org/81171C840F81C8843F1FA171E84F494AD6539CE2)
 
 <details><summary></summary><br />
 
