@@ -12,7 +12,7 @@
 
 <br>
 
-[![life]![PGP]![code]](https://keyoxide.org/81171C840F81C8843F1FA171E84F494AD6539CE2)
+[![life]![PGP]![code]](https://keyoxide.org/EE3A8EF380B4EC6F5590E3F1E645D09ED439FB0E)
 
 <details><summary></summary><br />
 
@@ -62,9 +62,8 @@
 </div>
 
 <!-- badges -->
-
 [life]: https://img.shields.io/badge/life-failing-red
-[PGP]: https://img.shields.io/badge/pgp-8117%201C84%200F81%20C884-blue
+[PGP]: https://img.shields.io/badge/pgp-EE3A%208EF3%2080B4%20EC6F-blue
 [code]: https://img.shields.io/badge/code-caotic-red
 
 <!-- links -->
