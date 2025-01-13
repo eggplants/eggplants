@@ -6,6 +6,9 @@
 
 <summary>
 
+```sh
+dig txt egpl.dev +short | tr \$ \\n
+```
 <!-- [![moe-counter]](#) -->
 [![egg-car]](#)
 
