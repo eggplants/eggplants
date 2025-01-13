@@ -6,9 +6,8 @@
 
 <summary>
 
-```sh
-dig txt egpl.dev +short | tr \$ \\n
-```
+`[click me to expand details list]`
+
 <!-- [![moe-counter]](#) -->
 [![egg-car]](#)
 
@@ -17,6 +16,7 @@ dig txt egpl.dev +short | tr \$ \\n
 <br>
 
 [![life]![PGP]![code]](https://keyoxide.org/EE3A8EF380B4EC6F5590E3F1E645D09ED439FB0E)
+`dig txt egpl.dev +short | tr \$ \\n`
 
 <details><summary></summary><br />
 
