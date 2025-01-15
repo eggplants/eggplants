@@ -6,7 +6,7 @@
 
 <summary>
 
-`[click me to expand details list]`
+`[click me to expand list]`
 
 [![moe-counter]](#)
 
