@@ -74,7 +74,7 @@
 
 <!-- links -->
 
-[Pulls]: https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Aeggplants+archived%3Afalse
+[Pulls]: https://github.com/pulls?q=is%3Apr+author%3Aeggplants+archived%3Afalse+is%3Aclosed+is%3Apublic+-user%3Aeggplants
 [Issues]: https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Aeggplants+archived%3Afalse
 [Greasy Fork]: https://greasyfork.org/en/users/671442-eggplants
 [PyPI]: https://pypi.org/user/eggplants/
