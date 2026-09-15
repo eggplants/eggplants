@@ -18,6 +18,8 @@
 
 [![life]![PGP]![code]](https://keyoxide.org/EE3A8EF380B4EC6F5590E3F1E645D09ED439FB0E)
 
+[![committers.top badge](https://user-badge.committers.top/japan/eggplants.svg)](https://user-badge.committers.top/japan/eggplants)
+
 [![egg-car]](#)
 
 <details><summary></summary><br />
